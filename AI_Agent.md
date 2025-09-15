@@ -31,3 +31,6 @@
 2. Agent can browse the internet.
 # Tool Calling  -- weather api, search api
     
+
+
+3. Agent can remember the full conversation.  
